@@ -1,0 +1,14 @@
+C:\Users\samwo\NotchSpaceReserver\obj\Debug\net10.0-windows\NotchSpaceReserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samwo\NotchSpaceReserver\obj\Debug\net10.0-windows\NotchSpaceReserver.AssemblyInfoInputs.cache
+C:\Users\samwo\NotchSpaceReserver\obj\Debug\net10.0-windows\NotchSpaceReserver.AssemblyInfo.cs
+C:\Users\samwo\NotchSpaceReserver\obj\Debug\net10.0-windows\NotchSpaceReserver.csproj.CoreCompileInputs.cache
+C:\Users\samwo\NotchSpaceReserver\bin\Debug\net10.0-windows\NotchSpaceReserver.deps.json
+C:\Users\samwo\NotchSpaceReserver\bin\Debug\net10.0-windows\NotchSpaceReserver.runtimeconfig.json
+C:\Users\samwo\NotchSpaceReserver\bin\Debug\net10.0-windows\NotchSpaceReserver.dll
+C:\Users\samwo\NotchSpaceReserver\bin\Debug\net10.0-windows\NotchSpaceReserver.pdb
+C:\Users\samwo\NotchSpaceReserver\obj\Debug\net10.0-windows\NotchSpaceReserver.dll
+C:\Users\samwo\NotchSpaceReserver\obj\Debug\net10.0-windows\refint\NotchSpaceReserver.dll
+C:\Users\samwo\NotchSpaceReserver\obj\Debug\net10.0-windows\NotchSpaceReserver.pdb
+C:\Users\samwo\NotchSpaceReserver\obj\Debug\net10.0-windows\NotchSpaceReserver.genruntimeconfig.cache
+C:\Users\samwo\NotchSpaceReserver\obj\Debug\net10.0-windows\ref\NotchSpaceReserver.dll
+C:\Users\samwo\NotchSpaceReserver\bin\Debug\net10.0-windows\NotchSpaceReserver.exe
