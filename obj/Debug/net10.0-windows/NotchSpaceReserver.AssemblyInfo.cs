@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotchSpaceReserver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47cb30c56ee57e3b12d67267a11e49913e8d44c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotchSpaceReserver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotchSpaceReserver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
